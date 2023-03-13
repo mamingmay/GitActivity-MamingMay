@@ -1,0 +1,6 @@
+print ("May Maming")
+print ("Tabionan, Gasan, Marinduque")
+print ("May 20, 2003")
+print ("Marinduque State College")
+print ("Bachelor of Science in Information Technology")
+print ("2B")
